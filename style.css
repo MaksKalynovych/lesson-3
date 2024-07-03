@@ -1,0 +1,24 @@
+ol{
+    list-style-image: url(https://www.shutterstock.com/image-illustration/tooth-pick-spain-national-flag-260nw-1052335385.jpg);
+    padding-left: 250px; 
+    color: rgb(5, 249, 143);
+}
+    
+ul{list-style-image: url(https://flagnation.net/cdn/shop/files/Germany-Iceland-Desk-Flag-Custom-Table-Flags-Small.webp?v=1710044754)
+    ;
+    padding-left: 800px; 
+    color: rgb(218, 145, 27);
+}
+
+table,th,td {
+    border: 1px solid blue;
+}
+
+table{ 
+    border-collapse: collapse;
+}
+
+/*nth-child*/
+
+tbody tr:nth-child(odd){background-color: brown;}
+tbody tr:nth-child(even){background-color: aqua;}

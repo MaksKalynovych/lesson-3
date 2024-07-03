@@ -1,0 +1,14 @@
+/* margin 0 */
+/* padding */
+h1{color: rgb(113, 47, 12);/* border */
+    /* solid, dotted, dashed, double, inset */
+     border: 1px solid green;
+        border-top: 5px dotted orange;
+        border-right: 4px double blue;
+        border-bottom: 2px inset black;
+        border-left: 5px groove red;}
+
+
+.hobby {border: 5; margin: 4; color: rgb(36, 164, 164);background-color: rgb(22, 22, 120);}
+.work {border: 4; margin: 6 ; color: rgb(180, 0, 0);}
+#work dollars{ color: rgb(10, 230, 10);}°
